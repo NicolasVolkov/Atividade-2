@@ -1,0 +1,43 @@
+* {
+    font-family: "Cabin", arial;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(33, 33, 34);
+}
+#protagonista{
+    border: 5px solid red;
+}
+#mapa {
+    width: 30%;
+}
+#Night{
+    width: 90%;
+}
+img{
+   border-radius: 10px;
+}
+p, h1, h2, ul, ol{
+    margin: 5px;
+    padding-left: 5px;
+}
+header{
+    color: red;
+    text-align: center;
+    padding: 5px;
+}
+.descricoes{
+    margin: 10px;
+    padding: 10px;
+    color: yellow;
+    background-color: rgb(33, 33, 34);
+    border: 5px solid gold;
+    border-radius: 10px;
+}
+#westbrook{
+    width: 50%;
+}
+footer{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
